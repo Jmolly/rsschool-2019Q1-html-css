@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Petr Rashkouski
+HTML CSS Basics: https://www.codecademy.com/users/jmolly/achievements
